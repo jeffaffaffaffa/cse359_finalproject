@@ -11,3 +11,6 @@ How do the people heading a decentralized system exert and maintain power in a s
 In the question of maintaining power, attacks on power can also be made, such as notorious 50% attacks.
 
 In the span of the next months, our team will create a visual, interactive experience where people can understand different power structures in decentralized systems.
+
+# To fire up the React app:
+- npm start in the client directory.

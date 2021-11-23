@@ -1,0 +1,30 @@
+body {
+    background-color: #FAF7F7;
+}
+
+.body {
+    margin-top: 100px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%; /* changes with more or less columns */
+    grid-gap: 5px;
+    background-color:rgb(182, 179, 179);
+    position: fixed;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    text-align: center;
+    font-size: 16px;
+}
+
+.header {
+    text-align: center;
+}

@@ -12,5 +12,7 @@ In the question of maintaining power, attacks on power can also be made, such as
 
 In the span of the next months, our team will create a visual, interactive experience where people can understand different power structures in decentralized systems.
 
-# To fire up the React app:
-- npm start in the client directory.
+# 3 Case Studies:
+1. Ethereum/Ether
+2. Brave
+3. NFTs
